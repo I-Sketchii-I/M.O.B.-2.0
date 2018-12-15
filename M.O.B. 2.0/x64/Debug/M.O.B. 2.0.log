@@ -1,0 +1,10 @@
+﻿  Bounty.cpp
+c:\users\njcar\source\repos\m.o.b.-2.0\m.o.b. 2.0\bounty.cpp(10): error C2011: 'Bounty': 'class' type redefinition
+  c:\users\njcar\source\repos\m.o.b.-2.0\m.o.b. 2.0\bounty.h(8): note: see declaration of 'Bounty'
+  M.O.B. 2.0.cpp
+c:\users\njcar\source\repos\m.o.b.-2.0\m.o.b. 2.0\m.o.b. 2.0.cpp(40): error C3867: 'Person::getName': non-standard syntax; use '&' to create a pointer to member
+c:\users\njcar\source\repos\m.o.b.-2.0\m.o.b. 2.0\m.o.b. 2.0.cpp(41): error C3867: 'Bounty::getStatus': non-standard syntax; use '&' to create a pointer to member
+  Person.cpp
+c:\users\njcar\source\repos\m.o.b.-2.0\m.o.b. 2.0\person.cpp(8): error C2011: 'Person': 'class' type redefinition
+  c:\users\njcar\source\repos\m.o.b.-2.0\m.o.b. 2.0\person.h(6): note: see declaration of 'Person'
+  Generating Code...
